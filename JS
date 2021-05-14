@@ -1,0 +1,18 @@
+2021.05.10
+
+
+//1. client xy와 page x,y 차이
+클라이언트 --> 지금 보이는 딱 화면 위에서 부터 to where the target is
+페이지 최초 상단 화면에서 부터 스크롤 내린 이후까지 전체 
+
+//2. 좌표API 일정간격으로 내리기,올리기
+
+window.scrollby(x,y)
+
+//move to a specified(x or y) spot!
+
+window.scrollTo(x,y)
+
+//
+window.scrooIntoView(x,y)
+
