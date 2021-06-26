@@ -1,13 +1,11 @@
 
+### TIL(Today I learned)
 
-
-# TIL(Today I learned)
-
-**Collection of journals about what I have learned on a daily-basis in 2021**
+> **About what I have learned and what I plan to learn on a daily-basis in 2021**
 
 
 
-## Goals in 2021 Q3-Q4📝
+#### Goals in 2021 Q3-Q4📝
 
 > - Enhance frontend skills with solid Javascript knowledge
 > - Build MERN stack responsive design projects 
@@ -15,28 +13,26 @@
 > - Learning TypeScript
 
 
-
-***
-
-### Frontend 🐱
+#### Frontend 🐱
  - HTML fundamentals
  - Advanced CSS & SASS
  - React
  - Bootstrap & framworks
  
-### Backend 💻
+#### Backend 💻
  - Node.js
  - MongoDB & Mongoose
  - Authentification (JWT,Oauth)
  - Cloud systems
 
 
-
-### Computer Science Background ⚙️
+#### Computer Science Background ⚙️
  - Data structures
  - Algoritms
  - Practices in Codewars/BaekJoon
  
 
-### Debugging 👩‍💻 
+#### Debugging 👩‍💻 
 - Frequent bugs
+
+
