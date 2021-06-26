@@ -1,5 +1,6 @@
-##TIL(Today I learned)
-> Collection of journals about what I have learned on a daily-basis
+# TIL(Today I learned)
+
+> Collection of journals about what I have learned on a daily-basis in 2021
 
 ***
 ** Goals 📝**
@@ -9,7 +10,7 @@
 - Learning TypeScript
 
 ***
-
+Cancel changes
 ### Frontend 🐱
  - HTML fundamentals
  - Advanced CSS and SASS
