@@ -1,8 +1,9 @@
+
+
 # TIL(Today I learned)
+**Collection of journals about what I have learned on a daily-basis in 2021**
 
-> Collection of journals about what I have learned on a daily-basis in 2021
 
-***
 ## Goals in 2021 Q3-Q4📝
 > - Enhance frontend skills with solid Javascript knowledge
 > - Build MERN stack responsive design projects 
