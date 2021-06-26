@@ -20,13 +20,13 @@
 
 ### Frontend 🐱
  - HTML fundamentals
- - Advanced CSS and SASS
+ - Advanced CSS & SASS
  - React
  - Bootstrap & framworks
  
 ### Backend 💻
  - Node.js
- - MongoDB and Mongoose
+ - MongoDB & Mongoose
  - Authentification (JWT,Oauth)
  - Cloud systems
 
