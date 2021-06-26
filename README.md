@@ -5,10 +5,12 @@
 
 
 ## Goals in 2021 Q3-Q4📝
+
 > - Enhance frontend skills with solid Javascript knowledge
 > - Build MERN stack responsive design projects 
 > - Study data structures & algorithms
 > - Learning TypeScript
+
 
 ***
 
