@@ -1,7 +1,10 @@
 
 
+
 # TIL(Today I learned)
+
 **Collection of journals about what I have learned on a daily-basis in 2021**
+
 
 
 ## Goals in 2021 Q3-Q4📝
@@ -10,6 +13,7 @@
 > - Build MERN stack responsive design projects 
 > - Study data structures & algorithms
 > - Learning TypeScript
+
 
 
 ***
@@ -26,7 +30,7 @@
  - Authentification (JWT,Oauth)
  - Cloud systems
 
- ***
+
 
 ### Computer Science Background ⚙️
  - Data structures
