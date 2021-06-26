@@ -1,39 +1,34 @@
-## Today I learned
-> Collection of notes and stuffs I learn from day-to-day
+##TIL(Today I learned)
+> Collection of journals about what I have learned on a daily-basis
 
-💡 2021's Resolution
-- Expanding backend knowledge
-- Sharpening frontend skills for responsive design
+***
+** Goals 📝**
+- Enhance frontend skills with solid Javascript knowledge
+- Build MERN stack responsive design projects 
 - Study data structures & algorithms
-- Learning low level language
-- Get used to TDD methods
-Study goals 📝
-Frontend 🖥
- HTML semantic tags
- CSS Media query
- CSS Flexbox
- Vue
- Bootstrap & Material UI
-Backend ⚙️
- Node.js
- Flask
- SQL (PostgreSQL)
- Web Security
- Authentification (JWT,Oauth)
- Cloud systems
- Log management (Kafka, Spring Boot)
-CS Fundametals 🤖
- Data structure
- Algoritms
-Data Analysis 📊
- D3 for interactive charts
- Danfo.js
-Typescript
- Fundamental Typescript
-Rust 🦀
- Rust + WebGL
-Testing ✅
- Jest
- Mocha
-Debugging cheat sheet 🐛
-Most frequent bugs
+- Learning TypeScript
+
+***
+
+### Frontend 🐱
+ - HTML fundamentals
+ - Advanced CSS and SASS
+ - React
+ - Bootstrap & framworks
+ 
+ ***
+ 
+### Backend 💻
+ - Node.js
+ - MongoDB and Mongoose
+ - Authentification (JWT,Oauth)
+ - Cloud systems
+
+### Computer Science Background ⚙️
+ - Data structures
+ - Algoritms
+ 
+***
+
+### Debugging 👩‍💻 
+- Frequent bugs
