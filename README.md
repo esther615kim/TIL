@@ -1,5 +1,6 @@
-##Today I learned
-Collection of notes and stuffs I learn from day to day to become a full stack developer 👩🏻‍💻
+## Today I learned
+> Collection of notes and stuffs I learn from day-to-day
+
 💡 2021's Resolution
 - Expanding backend knowledge
 - Sharpening frontend skills for responsive design
