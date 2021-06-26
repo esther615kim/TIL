@@ -1,4 +1,4 @@
-Today I learned
+##Today I learned
 Collection of notes and stuffs I learn from day to day to become a full stack developer 👩🏻‍💻
 💡 2021's Resolution
 - Expanding backend knowledge
