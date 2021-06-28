@@ -15,6 +15,7 @@
 
 #### Frontend 🐱
  - HTML fundamentals
+ - HTTP and the web
  - Advanced CSS & SASS
  - React
  - Bootstrap & framworks
