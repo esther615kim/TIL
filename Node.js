@@ -1,3 +1,7 @@
+//2021.07.11
+Schema
+https://www.zerocho.com/category/MongoDB/post/59a1870210b942001853e250
+
 //2021.06.28
 학습출처
 https://thebook.io/080229/ 
