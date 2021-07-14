@@ -1,7 +1,17 @@
-//1st Project 2021.06.23
+//2021.07.14 
 
-To-do list App from 리액트를 다루는 기술, velopert 
+React hook # useMemo
+https://www.youtube.com/watch?v=THL1OPn72vo
 
+
+//2021.7.10
+리액트 dependency : classnames
+https://chanhuiseok.github.io/posts/react-14/
+
+
+//2021.07.06
+리덕스연습
+https://codesandbox.io/s/node-js-sample-forked-dm2qt?file=/index.js
 
 
 //2021.07.05
@@ -9,10 +19,6 @@ Sparta react Lv1 WK1 hw
 https://codesandbox.io/s/seupareuta-react-l1-wk1-ec93s?file=/src/styles.css
 
 
-//2021.07.06
-리덕스연습
-https://codesandbox.io/s/node-js-sample-forked-dm2qt?file=/index.js
+//1st Project 2021.06.23
 
-//2021.7.10
-리액트 dependency : classnames
-https://chanhuiseok.github.io/posts/react-14/
+To-do list App from 리액트를 다루는 기술, velopert 
