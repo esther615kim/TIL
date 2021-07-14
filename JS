@@ -1,4 +1,20 @@
-2021.07.13
+//2021.07.14
+
+Reduce
+https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d
+
+#1
+const oneTwoThree = [1, 2, 3];
+let result = oneTwoThree.map((v) => {
+  console.log(v);
+  return v;
+});
+oneTwoThree; // [1, 2, 3]
+result; // [1, 2, 3]
+oneTwoThree === result; // false
+
+
+//2021.07.13
 Let's get it 교재
 https://thebook.io/080270/part01/ch02/05/03/
 
