@@ -1,0 +1,6 @@
+//2021.07.14
+CSS 컬러에 HSL 사용하기
+background: hsl(200, 30%,30%) 
+                hue, saturation,lightness
+                
+https://www.youtube.com/watch?v=EJtmfkKulNA
