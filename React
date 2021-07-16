@@ -1,3 +1,10 @@
+//2021.07.16
+defaultProps ={}
+방법1. defaultProps 붙이기
+방법2. (props) parameter 에서 미리 넣기
+https://www.youtube.com/watch?v=8u3mi2ykz18&t=26s
+
+
 //2021.07.14 
 
 React hook # useMemo
