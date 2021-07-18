@@ -1,3 +1,7 @@
+//2021.07.19
+Let's get it JS openbook source
+https://thebook.io/080270/part02/ch03/
+
 //2021.07.14
 
 Reduce
