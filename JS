@@ -1,3 +1,7 @@
+//2021.07.20
+랜덤 user API 가져오기
+fetch('https://randomuser.me/api');
+
 //2021.07.19
 Let's get it JS openbook source
 https://thebook.io/080270/part02/ch03/
