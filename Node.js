@@ -1,4 +1,8 @@
 //2021.07.21
+Weather App (mini project)
+https://www.youtube.com/watch?v=OE7kml0pigw&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY&index=3
+
+//2021.07.21
 URL
 https://www.youtube.com/watch?v=Zhbvui_T9VY&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=14
 
