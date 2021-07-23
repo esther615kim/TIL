@@ -1,3 +1,7 @@
+//2021.07.22
+시간관련함수
+https://javascript.info/date
+
 //2021.07.20
 랜덤 user API 가져오기
 fetch('https://randomuser.me/api');
