@@ -1,5 +1,9 @@
 //2021.07.31
 validator
+
+email validity check!
+console.log(validator.isEmail('andrew@example.com')) ==> ture!
+  
 https://www.npmjs.com/package/validator
 
 //2021.07.31
