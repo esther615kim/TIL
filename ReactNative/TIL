@@ -2,6 +2,9 @@
 expo vector icons
 https://icons.expo.fyi/
 
+spotify web API node
+https://www.npmjs.com/package/spotify-web-api-node
+
 //2021.08.12
 note of React Native course from SpartaCording Club
 https://docs.google.com/document/d/19D5Aam5ZV1_GHlDIngtwPaQ5NjWtQ5OXXLDLSgNYgRE/edit#
@@ -12,5 +15,6 @@ https://docs.expo.dev/versions/v38.0.0/
 //2021.08.11
 react navagation
 https://reactnavigation.org/docs/stack-navigator/#props
+
 react native
 https://reactnative.dev/docs/components-and-apis
