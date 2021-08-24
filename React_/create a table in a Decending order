@@ -1,0 +1,55 @@
+//Table 구성
+
+const ProductsTable = (props) => {
+  const { products } = props;
+  const [sortedField, setSortedField] = React.useState(null);
+  return (
+    <table>
+      <thead>
+        <tr>
+          <th>
+            <button type="button" onClick={() => setSortedField('name')}>
+              Name
+            </button>
+          </th>
+          <th>
+            <button type="button" onClick={() => setSortedField('price')}>
+              Price
+            </button>
+          </th>
+          <th>
+            <button type="button" onClick={() => setSortedField('stock')}>
+              In Stock
+            </button>
+          </th>
+        </tr>
+      </thead>
+      {/* As before */}
+    </table>
+  );
+};
+
+
+//function sort it by name 
+
+function ProductTable(props) {
+  const { products } = props;
+  let sortedProducts = [...products];
+  sortedProducts.sort((a, b) => {
+    if (a.name < b.name) {
+      return -1;
+    }
+    if (a.name > b.name) {
+      return 1;
+    }
+    return 0;
+  });
+  return (
+    <Table>
+      {/* as before */}
+    </Table>
+  );
+}
+
+
+//more details found here : https://www.smashingmagazine.com/2020/03/sortable-tables-react/
