@@ -1,3 +1,7 @@
+//2021.08.30
+statement vs expression in jS
+https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74
+
 //2021.08.21
 inflearn JS intermediate scope chain
 https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89#curriculum
