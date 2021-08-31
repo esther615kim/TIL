@@ -1,3 +1,8 @@
+//2021.08.31
+javascript reduce()
+https://ko.javascript.info/array-methods
+https://www.youtube.com/watch?v=s1XVfm5mIuU
+
 //2021.08.30
 statement vs expression in jS
 https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74
