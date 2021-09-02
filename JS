@@ -1,3 +1,8 @@
+//2021.09.02
+reduce 10 exercises
+https://codesandbox.io/s/js-methods-d59vi?file=/src/reduce.js
+
+
 //2021.09.01
 https://stackoverflow.com/questions/35642809/understanding-javascript-truthy-and-falsy
 
