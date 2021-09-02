@@ -1,3 +1,18 @@
+//2021.09.01
+https://stackoverflow.com/questions/35642809/understanding-javascript-truthy-and-falsy
+
+falsy values
+false
+null
+undefined
+0
+NaN
+'', "", ``(Empty template string)
+document.all
+0n: BigInt
+-0
+
+
 //2021.08.31
 javascript reduce()
 https://ko.javascript.info/array-methods
