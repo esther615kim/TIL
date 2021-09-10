@@ -1,3 +1,9 @@
+//2021.09.09
+깃허브 클로닝
+1. git clone -b { 브랜치명 } --single-branch --mirror { git repository 주소 }
+2. cd 프로젝트이름.git
+3. git push --mirror { GitHub repository 주소 }
+
 <2021.07.25>
 fork & messages
 https://data-make.tistory.com/228
