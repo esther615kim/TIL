@@ -1,3 +1,22 @@
+//2021.09.23
+
+실제 DOM과 가상 DOM(Virtual DOM)의 차이점
+실제 DOM은 페이지가 렌더링 되어 화면을 그려주기 위해 필요한 모든 리소스가 다운받아진 환경이고 
+가상 DOM은 일부의 소스를 복사한 환경입니다. 가상 DOM은 자바스크립트 객체이기 때문에 실제DOM보다 빠르고 가벼움
+
+컴포넌트 라이프 사이클
+컴포넌트가 생성될 때는 우선 constructor에서 state들이 초기화
+그런 후 render에서 컴포넌트가 리턴이 되고, 그 후 컴포넌트디드마운트가 실행
+이곳에서 브라우저의 위치를 파악하고 넣어줘야하는 
+팝업이나 외부 data를 불러오는 api를 이곳에 넣어줌
+Component 와 PureComponent의 차이점
+
+controlled 컴포넌트와 uncontrolled 컴포넌트의 차이점 설명
+input태그를 예로 들었을 때 해당 태그 안에 onChange 함수와 같이 
+상태를 변화시켜주는 함수가 연결되어있으면 
+controlled 컴포넌트이고 그렇지 않으면 uncontrolled 컴포넌트
+
+
 //2021.09.12
 props vs states when to use..
 https://www.youtube.com/watch?v=IYvD9oBCuJI&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=2
