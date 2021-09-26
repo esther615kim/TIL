@@ -1,3 +1,7 @@
+2021.09.26
+fork & PR
+https://chanhuiseok.github.io/posts/git-3/
+
 //2021.09.09
 깃허브 클로닝
 1. git clone -b { 브랜치명 } --single-branch --mirror { git repository 주소 }
