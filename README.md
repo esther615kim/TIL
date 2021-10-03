@@ -40,7 +40,7 @@
  
 
 #### Debugging and others 👩‍💻 
-- Log frequent bugs
 - Git and Github version control for collaborative projects
+- Log frequent bugs
 
 
