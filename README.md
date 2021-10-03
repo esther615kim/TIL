@@ -7,12 +7,12 @@
 
 #### Goals in 2021 Q4📝
 
-> - Enhance frontend skills with solid Javascript knowledge
-> - Build MERN stack responsive design projects 
-> - Participate in a team projects 
+> - Enhance frontend skills with ES6+ JS knowledge
+> - Build MERN stack responsive-design projects 
+> - Participate in team projects (currently 2 projects) 
 > - Study data structures & algorithms 
-> - refactor previous projects with TypeScript
-> - learn Webpack and babel
+> - Learn TypeScript 
+> - Learn Webpack and babel
 
 
 #### Frontend 🐱
@@ -33,13 +33,13 @@
  - Authentification (JWT,Oauth)
  - Cloud systems
 
-#### Computer Science Background ⚙️
- - Data structures
- - Algoritms
- - Practices in Leetcode and codewars
+#### Computer Science Background and others ⚙️
+ - Data structures and Algoritms
+ - Participating in Github study group  
  
 
-#### Debugging 👩‍💻 
-- Frequent bugs
+#### Debugging and others 👩‍💻 
+- Log frequent bugs
+- Git and Github version control for collaborative projects
 
 
