@@ -30,6 +30,7 @@
  - Node.js
  - HTTP and the web
  - MongoDB & Mongoose
+ - Firebase
  - Authentification (JWT,Oauth)
  - Cloud systems
 
