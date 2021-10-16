@@ -1,3 +1,8 @@
+2021.10.16
+codesoom 
+React course-12 weeks
+https://www.codesoom.com/courses/react
+
 //2021.07.28
 how to manage technical debt
 technical debt: amount of codes that slows down your work or anything that slows down your project.
