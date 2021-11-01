@@ -8,6 +8,6 @@ https://www.toptal.com/react/redux-toolkit-and-rtk-query
 HOC that brings Next.js and Redux togethe
 https://github.com/kirill-konshin/next-redux-wrapper
 
-### Redux TOolkit
+### Redux Toolkit docs
 `createAsyncThunk`
 https://redux-toolkit.js.org/api/createAsyncThunk
