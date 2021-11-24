@@ -1,0 +1,61 @@
+// ✅
+function getLastItem(array) {
+  // return array.pop();
+  return array[array.length - 1];
+}
+// ✅ better solution?
+function removeItem(array, index) {
+  // array.splice(index, 1);
+  // return array;
+  let copied = [...array];
+  const removed = copied.splice(index, 1);
+  return copied;
+}
+// 💥 fix it
+function switchKey(obj, oldKey, newKey) {
+  // obj[newKey] = obj[oldKey];
+  // delete obj[oldKey];
+  // return obj;
+  let copied = Object.assign({}, obj);
+  copied[newKey] = copied[oldKey];
+  delete copied[oldKey];
+  return copied;
+  // console.log("copied", copied);
+  // console.log("obj", obj);
+}
+// ✅ need refactoring..!
+function joinArrays(arr1, arr2) {
+  // if (!arr2) return arr1;
+  // arr1.push(...arr2);
+  // return arr1;
+  if (arr1 && arr2) return [...arr1, ...arr2];
+  if (!arr1 && arr2) return [...arr2];
+  if (arr1 && !arr2) return [...arr1];
+}
+// ✅ 
+function addItem(array, item) {
+  // if (!item) return array;
+  // array.push(item);
+  // return array;
+  return [...array, item];
+}
+
+function removeAges(people) {
+  // people.forEach(function (person) {
+  //   delete person.age;
+  // });
+  // return people;
+  let removed = JSON.parse(JSON.stringify(people));
+  removed.map((item) => delete item.age);
+  // console.log("people", people);
+  return removed;
+}
+
+module.exports = {
+  getLastItem,
+  removeItem,
+  switchKey,
+  joinArrays,
+  addItem,
+  removeAges,
+};
