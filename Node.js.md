@@ -1,3 +1,7 @@
+//2021.12.28
+mongoose crash course
+https://www.youtube.com/watch?v=DZBGEVgL2eE&t=236s
+
 //2021.12.11
 node.js inquirer 
 https://github.com/SBoudrias/Inquirer.js/
