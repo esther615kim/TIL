@@ -1,4 +1,8 @@
 ## TIL w/REACT
+### 2022.04.08
+
+React Desgin Patterns course in Linkedin
+https://www.linkedin.com/learning/react-design-patterns/split-screen-component-improvements?autoplay=true
 
 ### 2021.09.30
 1.search filter react hooks
