@@ -1,0 +1,20 @@
+#### 🙋‍♀️ TIL 
+- Personal notes from reading "Refactoring: Improving the Design of Existing Code" by Martin Fowler
+
+### Chaper 1
+#### Refactoring: A First Example
+`pg.1`
+- Examples can be easily either too complicated to work through or small enough to be comprehensible - do not look like it's worthwhile.
+
+#### Comments on the Starting Program
+`pg.4`
+- On a larger scale program, a single inline function can be hard to understand.
+- After all, the complier doesn't care whether the code is ugly or clean but humans do. 
+  A poorly designed system is hard to change-becuase it is difficult to figure out what to change and how tehse changes will interact with the existing code to get the behavior I want.
+- If the program lacks structure, it's usually easier to add structure to the program first, then make the change.
+
+#### The First Step in Refactoring
+`pg.5`
+- The first step for refactoring is to ensure a solid set of tests for that section of code. An important part of the tests is the way they report their result.
+  It is vital to make tests sef-checking and think them as a bug detector. 
+
