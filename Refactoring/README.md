@@ -18,3 +18,14 @@
 - The first step for refactoring is to ensure a solid set of tests for that section of code. An important part of the tests is the way they report their result.
   It is vital to make tests sef-checking and think them as a bug detector. 
 
+
+#### Decomposing the statement Function
+`pg.6-8`
+- When refactoring a long function, try to identify points that separate different parts of the overall behavior.
+##### Extract Function
+- Turn the chunk of code into its own function,naming it after what it does.
+- Look in the fragment for any variables that will no longer be in scope after being extracted. pass the variables as parameters or initialze it inside the extracted code if necessary.
+- Immediately compile and test to see if there anything broken. Small changes and testing after each change enables a tight feedback loop: it's the essence of the refactoring process.
+ (* `Compile` means doing whatever is needed to make the JavaScript executable.)
+- Rename the extract function or variables for clarification purposes.
+ 
