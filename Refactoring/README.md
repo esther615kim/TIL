@@ -23,8 +23,8 @@
 `pg.6-8`
 - When refactoring a long function, try to identify points that separate different parts of the overall behavior.
 ##### Extract Function
-- Turn the chunk of code into its own function,naming it after what it does.
-- Look in the fragment for any variables that will no longer be in scope after being extracted. pass the variables as parameters or initialze it inside the extracted code if necessary.
+- Turn the chunk of code into its own function, naming it after what it does.
+- Look in the fragment for any variables that will no longer be in scope after being extracted. Pass the variables as parameters or initialize it inside the extracted code if necessary.
 - Immediately compile and test to see if there anything broken. Small changes and testing after each change enables a tight feedback loop: it's the essence of the refactoring process.
  (* `Compile` means doing whatever is needed to make the JavaScript executable.)
 - Rename the extract function or variables for clarification purposes.
