@@ -29,3 +29,11 @@
  (* `Compile` means doing whatever is needed to make the JavaScript executable.)
 - Rename the extract function or variables for clarification purposes.
  
+---
+
+### Chaper 6 A First Set of Refactorings
+#### Extract Function
+`pg.106-111`
+- Look at a fragment of code, understand `what` it is doing, then extract it into its own function named after its `purpose`.
+- When to enclose code in its own function - the seperation between intention and implementation, when you have to spend  `effort` figuring out what it is doing, then extract the code block into a function and name it after the `what`.
+- Name a function after the intent of the fuction (by what it does, not by how it does it).
