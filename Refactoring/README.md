@@ -37,3 +37,5 @@
 - Look at a fragment of code, understand `what` it is doing, then extract it into its own function named after its `purpose`.
 - When to enclose code in its own function - the seperation between intention and implementation, when you have to spend  `effort` figuring out what it is doing, then extract the code block into a function and name it after the `what`.
 - Name a function after the intent of the fuction (by what it does, not by how it does it).
+
+-`Notion Chp 6 #1-5` https://www.notion.so/Chp-6-1-5-a964036cc8604e7cae120e6ff3630a69
