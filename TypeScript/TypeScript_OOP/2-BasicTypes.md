@@ -14,7 +14,7 @@ const str: string = "hello";
 
 // boolean
 const bool: boolean = false;
-```
+
 // undefined - declared but not defined yet
 let name: undefined; // 💩
 let age: number | undefined; // 👌 union type
