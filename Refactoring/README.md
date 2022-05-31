@@ -39,3 +39,8 @@
 - Name a function after the intent of the fuction (by what it does, not by how it does it).
 
 -`Notion Chp 6 #1-5` https://www.notion.so/Chp-6-1-5-a964036cc8604e7cae120e6ff3630a69
+
+### Chapter 10 Conditional Logic
+
+-`Notion summary link https://www.notion.so/CHP-10-CONDITIONAL-LOGIC-b477e13d69604267a18d4294995c01b2
+
