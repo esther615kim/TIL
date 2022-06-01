@@ -16,6 +16,6 @@
 `WK2` 31/05/2022 ~
 | Main Concepts | Link | Status| 
 | :--: | :-----------------: | :------------: |
-| Lists and Keys| https://www.notion.so/8-Lists-and-Keys-0f67ad081c344926a1e45a5070b96581 | update-in-progress 🍨 |  
- | Forms  |  |  | 
+| Lists and Keys| https://www.notion.so/8-Lists-and-Keys-0f67ad081c344926a1e45a5070b96581 | update-completed |  
+ | Forms  |https://www.notion.so/9-Form-b562c5c7c3424874a3ec8cb0c0915f71  | update-in-progress 🍨 | 
 
