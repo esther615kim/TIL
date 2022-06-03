@@ -18,4 +18,4 @@
 | :--: | :-----------------: | :------------: |
 | Lists and Keys| https://www.notion.so/8-Lists-and-Keys-0f67ad081c344926a1e45a5070b96581 | update-completed |  
  | Forms  |https://www.notion.so/9-Form-b562c5c7c3424874a3ec8cb0c0915f71  |update-completed | 
-| Lifting state Up  | https://www.notion.so/10-Lifting-State-Up-cbf2c6ded7e14de592db1e16221d0823  | update-in-progress 🍨 | 
+| Lifting State Up  | https://www.notion.so/10-Lifting-State-Up-cbf2c6ded7e14de592db1e16221d0823  | update-in-progress 🍨 | 
