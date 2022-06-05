@@ -19,4 +19,5 @@
 | Lists and Keys| https://www.notion.so/8-Lists-and-Keys-0f67ad081c344926a1e45a5070b96581 | update-completed |  
  | Forms  |https://www.notion.so/9-Form-b562c5c7c3424874a3ec8cb0c0915f71  |update-completed | 
 | Lifting State Up  | https://www.notion.so/10-Lifting-State-Up-cbf2c6ded7e14de592db1e16221d0823  | update-completed | 
-| Composition vs Inheritancce | https://www.notion.so/11-Composition-vs-Inheritance-bbb59b421e1e4c0c9d4a1cb0cb5ae28f  | update-in-progress 🍨 | 
+| Composition vs Inheritancce | https://www.notion.so/11-Composition-vs-Inheritance-bbb59b421e1e4c0c9d4a1cb0cb5ae28f  | update-completed| 
+| Thinking in React | https://www.notion.so/12-Thinking-in-React-4f758225c09f444492512d25b3096060 |update-in-progress 🍨 |
