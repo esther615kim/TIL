@@ -5,6 +5,6 @@ https://www.linkedin.com/learning/react-design-patterns/server-instructions?auto
 
 | Category  | Title | Link | Status| 
 | :--: |:--: | :-----------------: | :------------: |
-|  Layout Component |:--: | https://velog.io/write?id=c3297dd6-0ff7-4835-8969-224dd31f75e0  | update-completed |  
-|  Container Component | :--: |https://velog.io/@ek615/React-Design-Patterns-2.-Container  | update-completed| 
-|  Container Component | 2.4 UserLoader Component | https://velog.io/@ek615/RDP-Container-2.4-UserLoader | update-in-progress | 
+|  Layout  | | https://velog.io/write?id=c3297dd6-0ff7-4835-8969-224dd31f75e0  | update-completed |  
+|  Container  |2.1-2.3 CurrentUserLoader |https://velog.io/@ek615/React-Design-Patterns-2.-Container  | update-completed| 
+|  Container  | 2.4 UserLoader  | https://velog.io/@ek615/RDP-Container-2.4-UserLoader | update-in-progress | 
