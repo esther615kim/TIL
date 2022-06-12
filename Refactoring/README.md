@@ -42,5 +42,4 @@
 
 ### Chapter 10 Conditional Logic
 
--`Notion summary link https://www.notion.so/CHP-10-CONDITIONAL-LOGIC-b477e13d69604267a18d4294995c01b2
-
+-`Notion summary link` https://www.notion.so/CHP-10-CONDITIONAL-LOGIC-b477e13d69604267a18d4294995c01b2
