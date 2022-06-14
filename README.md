@@ -1,7 +1,7 @@
 
 ### TIL(Today I learned)
 
-> **About what I have learned and what I plan to learn on a daily-basis in 2021**
+> **About what I have learned and what I plan to learn on a daily-basis**
 
 
 
