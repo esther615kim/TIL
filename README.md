@@ -5,15 +5,13 @@
 
 
 
-#### Goals in 2021 Q4📝
+#### Goals in 2022 Q3📝
 
-> - Enhance frontend skills with ES6+ JS knowledge
-> - Build MERN stack responsive-design projects 
-> - Participate in team projects (currently 2 projects) 
-> - Study data structures & algorithms 
-> - Learn TypeScript 
-> - Learn Webpack and babel
-
+> - Enhance frontend skills with ES6+ JS, DOM and HTTP basics
+> - Learn TypeScript with Object-oriented programming concepts
+> - Build a JAM stack responsive-design project with Tailwind CSS 
+> - Study data structures & algorithms daily
+> - Read and summarise Refactoring by Martin Fowler 
 
 #### Frontend 🐱
  - HTML5 fundamentals
@@ -25,20 +23,20 @@
  - Redux toolkit
  - Material UI 
  - Bootstrap 5
+ - Tailwind Css
  
 #### Backend 💻
  - Node.js
  - HTTP and the web
  - MongoDB & Mongoose
- - Firebase
+ - Firebase 9
  - Authentification (JWT,Oauth)
- - Cloud systems
+ - AWS
 
 #### Computer Science Background and others ⚙️
  - Data structures and Algoritms
  - Participating in Github study group  
  
-
 #### Debugging and others 👩‍💻 
 - Git and Github version control for collaborative projects
 - Log frequent bugs
