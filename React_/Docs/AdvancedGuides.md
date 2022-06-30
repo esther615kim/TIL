@@ -11,3 +11,4 @@
 
 - `Error Boundary` https://glimmer-tartan-f42.notion.site/Error-Boundary-5200f0f16f384cd3936ff389b7425cab
 - `Forwarding Refs` https://glimmer-tartan-f42.notion.site/Ref-9cdc4a5ccb4845d0b4385bae79979e65
+- `Higher Order Component` https://www.notion.so/Higher-Order-Component-09f4fff48e744f7c967eb7a01bf4b913
