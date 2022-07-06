@@ -14,3 +14,4 @@
 - `Higher Order Component` https://www.notion.so/Higher-Order-Component-09f4fff48e744f7c967eb7a01bf4b913
 - `JSX in Depth` https://www.notion.so/JSX-in-Depth-edc397b4b3724835952f5888f4c74d80
 - `Fragments` https://www.notion.so/Fragments-13beab76812345dba5753791fe0fb455
+- `Optimizing Performance`  https://www.notion.so/Fragments-13beab76812345dba5753791fe0fb455
