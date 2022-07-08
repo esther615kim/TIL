@@ -15,3 +15,4 @@
 - `JSX in Depth` https://www.notion.so/JSX-in-Depth-edc397b4b3724835952f5888f4c74d80
 - `Fragments` https://www.notion.so/Fragments-13beab76812345dba5753791fe0fb455
 - `Optimizing Performance`  https://www.notion.so/Fragments-13beab76812345dba5753791fe0fb455
+- `Reconciliation` https://glimmer-tartan-f42.notion.site/Reconciliation-691601bb5f274d1ca0799f725f525eb0
