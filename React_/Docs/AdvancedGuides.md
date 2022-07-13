@@ -16,3 +16,4 @@
 - `Fragments` https://www.notion.so/Fragments-13beab76812345dba5753791fe0fb455
 - `Optimizing Performance`  https://www.notion.so/Fragments-13beab76812345dba5753791fe0fb455
 - `Reconciliation` https://glimmer-tartan-f42.notion.site/Reconciliation-691601bb5f274d1ca0799f725f525eb0
+- `Refs and DOM` https://glimmer-tartan-f42.notion.site/Refs-and-DOM-053075a769984fa1b23da5fb55f41fc6
