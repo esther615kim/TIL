@@ -1,0 +1,1 @@
+- Zerocho Short TypeScript course #1 summary https://velog.io/@ek615/TS-15mins-youtube-zrch-TS%EA%B0%95%EC%9D%98-1
