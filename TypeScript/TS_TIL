@@ -1,7 +1,48 @@
-//2021.08.02
-Typescript tutorial
-https://www.youtube.com/watch?v=BwuLxPH8IDs
+`2022.07.26`
+// apple coidng_ part 1 # union, unknown  타입을 미리 정하기 애매할 때 (union type, any, unknown)
 
-//2021.07.27
-Effective Typscript
-https://dokumen.pub/qdownload/effective-typescript-62-specific-ways-to-improve-your-typescript-1nbsped-9781492053712-1492053716.html
+// exercise 1
+var array: number[] = [1,'2',3]
+var obj: {data : number} = { data : '123' }
+
+// exercise 1 AK
+var array2: (number|string)[] = [1,'2',3]
+var obj2: {data : number|string} = { data : '123' }
+
+
+// ## unknown type https://mariusschulz.com/blog/the-unknown-type-in-typescript
+let age_: string|number;
+age_ + 1; // age is union type => to get rid of the error, it needs assertion or narrowing!
+
+// exercise 2
+let user = 'kim';
+let age = undefined;
+let married = false; 
+let 철수 = [user, age, married];
+// edercise AK 2
+let user2 :string = 'kim';
+let age2 :undefined | number = undefined;
+let married2 :boolean = false; 
+let 철수2 = [user, age, married]; // instead of add 철수2 type, let typescript infer (typescript inference)
+
+// exercise 3 
+let school = {
+    score : [100, 97, 84],
+    teacher : 'Phil',
+    friend : 'John'
+}
+school.score[4] = false;
+schhol.friend = ['Lee' , school.teacher]
+
+// edercise AK 3
+let school2 :{
+    score : (number|boolean)[],
+    teacher : string,
+    friend : string | string[]
+} = {
+    score : [100, 97, 84],
+    teacher : 'Phil',
+    friend : 'John'
+}
+school2.score[4] = false; // score => add boolean type
+school2.friend = ['Lee' , school2.teacher] // friend => school.teacher => add array type
