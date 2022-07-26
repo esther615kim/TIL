@@ -46,3 +46,39 @@ let school2 :{
 }
 school2.score[4] = false; // score => add boolean type
 school2.friend = ['Lee' , school2.teacher] // friend => school.teacher => add array type
+
+
+// ✔ # Functions & void type 함수에 타입 지정하는 법 & void 타입 => type 지정할 값 2개: 1. parameter 2. return 
+
+// exercise 1
+
+function myfunc(x){
+  return x * 2
+}
+// edercise AK
+function myfunc2(x:number){
+  return x * 2
+
+// exercise 2 => 에러 나는 이유는? 
+function myfunc2(x: number|string) :void {
+    console.log( x + 3);
+}
+// edercise AK => TS는 확실한 거! x가 number 이나 string 둘 다 가능 한 경우, 파라미터의 타입이 확실하지 않으니까 파라미터 조작을 일단 실드로 막고 금지하는 것입니다.
+
+// exercise 3  이름을 파라미터로 입력하면 콘솔창에 "안녕하세요 홍길동"을 출력해주고 아무것도 파라미터로 입력하지 않고 함수를 사용하면 "이름이 없습니다" 를 출력하는 함수를 만들어봅시다. 파라미터와 return 타입지정도 잘 해봅시다. 
+
+// exercise 3 AK ...narrowing 필요한 듯? 
+function greeting (name?: string){
+    name ? console.log("Hello, gildong") : console.log("invalid name info")
+}
+
+greeting("chuchu")
+
+// exercise 4 함수에 숫자 또는 문자를 집어넣으면 자릿수를 세어 출력해주는 함수를 만들어보십시오.예를 들어 '245' 이런 문자를 입력하면 3이 return 되어야합니다.숫자 또는 문자 이외의 자료가 들어오면 안됩니다. 
+
+// exercise 4 AK
+function howManyDigits(num: number|string){
+    return String(num).length; //x.toString().length
+}
+
+howManyDigits("hi");
