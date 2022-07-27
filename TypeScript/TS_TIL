@@ -128,6 +128,46 @@ function displayCourseName(x:{subject: string | string[]}){
     return x.subject[x.subject.length - 1]
   } else {
     return 'invalid input'
-  }
-     
+  }     
+}
+
+// narrowing 2
+
+// example 1 && => undefined or null checker
+function func(a: string | undefined){
+    if(a && typeof a === "string"){ 
+}
+
+// example 2 obj checker => obj 2개가 property를 다른 걸 가지고 있을 때 if (속성 in ~) 체크가능
+type Fish = {swim: string};
+type Bird = {fly: string};
+
+function showAnimal(animal: Fish | Bird){
+    // if( type of animall === ?)
+    if("swim" in animal) { // can check Fish type
+        .... 
+    }
+}
+
+// example 2-2 => obj instanceof + 부모 obj로 narrowing하기
+
+let currentDate = new Date();
+if(currentDate instanceof Date){
+    // 
+} 
+
+// example 3 => narrowing 비슷하고 parent class도 없는 obj경우 literal type 가능 https://www.typescriptlang.org/docs/handbook/literal-types.html
+type Car = {
+  wheel : '4 wheels', // make it as a literal type, 구분지을 수 있는 값
+  colour : string
+}
+type Bike = {
+  wheel : '2 wheels',
+  colour : string
+}
+
+function whatToRide(vehicle:Car | Bike){
+    if(vehicle.wheel === "4 wheels"){ //check the value! 
+        ...
+    }
 }
