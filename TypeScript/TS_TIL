@@ -171,3 +171,48 @@ function whatToRide(vehicle:Car | Bike){
         ...
     }
 }
+
+`30/07/2022`
+// zrch #3-1
+
+
+interface Arr<T>{
+    forEach(callback:(item:T) => void):void;
+    map<S>(callback:(item:T,index:number) => S):S[]; // map의 return 값 T 아니고 T[] 주의!
+    filter<S extends T>(callback:(v:T) =>v is S) : S[]; // T의 부분집합으로 S가 있음 s extends T
+
+}
+const c: Arr<number> = [3,4,5];
+const c1: Arr<number|string> = ["3",4,"5"];
+// exercise 3 filter
+const g = c.filter((item)=>item % 2 === 0); // [2] number[]
+
+// exercise 3-2 filter
+const h = c1.filter(item=> item ==="string"); // ["3","5"] string]\-
+
+// exercise 1 forEach JS -> TS
+// 1. Arr 안에 forEach 메서드 선언해주기 
+// 2. foreach를 보고 모양에 맞게 만들어주기!
+// 3.모든 input을 커버할 수 있는 forEach 메서드 만들기
+// 4.generic에 넣기 함수<T> 모양
+const a:Arr<number> = [3,4,5];
+a.forEach((item)=>{
+    console.log(item);
+    return "3";
+})
+// exercise 1-2 forEach
+const b:Arr<string|number> = [3,"4",5]; 
+b.forEach((item)=>{
+    console.log(item);
+    return "3";
+})
+
+// exercise 2 map JS -> TS 연습
+
+const d = c.map((item)=> item+1); // [4,5,6]
+
+// exercise 2-2 map
+const e = c.map((item)=> item.toString()); // ["3","4","5"] => 입력은 number & 리턴값 string! T 말고 새로운 제네릭 S 써주기!
+
+// exrcise 2-3 map w/ index
+const f = c.map((item,index)=> console.log(index+item)); //[0,1,2]
