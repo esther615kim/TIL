@@ -62,3 +62,28 @@ acceptObject({name:"chuchu"}0;
 }
 
 ```
+
+2.10 Union Types Exercises
+
+```js
+// DC_TC& OOP 2.10 Union Type
+// exercise 1  function login => success or fail
+type SuccessSate = {
+  response:{
+    body: string;
+  }
+}
+type FailState = {
+  reason: string;
+}
+
+type LoginState = SuccessSate | FailState;
+
+function login(): LoginState{
+  return{
+    response:{
+      body:"Logged in"
+    }
+  }
+}
+```
