@@ -3,3 +3,5 @@
 16/Sep/2022 `React form without a library`
 -  https://www.youtube.com/watch?v=tIdNeoHniEY
 -  https://bobbyhadz.com/blog/react-you-provided-value-prop-to-form-field-without-onchange 
+21/Sep/2022 `React form`
+- https://velog.io/@ek615/Reacthandle-Form-funciton
