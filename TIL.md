@@ -4,3 +4,6 @@
 2. https://bobbyhadz.com/blog/react-you-provided-value-prop-to-form-field-without-onchange 
 - 21/Sep/2022 `React form` https://velog.io/@ek615/Reacthandle-Form-funciton
 - 23/Sep/2022 `How to use fnm` https://www.freecodecamp.org/news/fnm-fast-node-manager/
+
+### Oct 2022 
+- 02/Oct/2022 https://velog.io/@ek615/TSStudy-7
