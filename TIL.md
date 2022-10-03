@@ -7,3 +7,4 @@
 
 ### Oct 2022 
 - 02/Oct/2022 https://velog.io/@ek615/TSStudy-7
+- 04/Oct/2022 https://velog.io/write?id=845ea9b0-f252-414f-a15e-15bbdd55ab18
