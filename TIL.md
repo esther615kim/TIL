@@ -10,4 +10,4 @@
 - 04/Oct/2022 https://velog.io/write?id=845ea9b0-f252-414f-a15e-15bbdd55ab18
 - 06/Oct/2022  `Prevent Double-Click Dups in React` https://dev.to/stokemasterjack/prevent-double-click-dups-in-react-5cc6
 - 10/Oct/2022 `Next.js Chat App Week1` https://velog.io/@ek615/NextchatApp
-- 
+- 13/Oct/2022 `Women who code coding interview tips seminar` https://velog.io/@ek615/coding-interviewtips
