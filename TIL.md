@@ -11,3 +11,5 @@
 - 06/Oct/2022  `Prevent Double-Click Dups in React` https://dev.to/stokemasterjack/prevent-double-click-dups-in-react-5cc6
 - 10/Oct/2022 `Next.js Chat App Week1` https://velog.io/@ek615/NextchatApp
 - 13/Oct/2022 `Women who code coding interview tips seminar` https://velog.io/@ek615/coding-interviewtips
+- 17/Oct/2022 `Next.js APIs` https://velog.io/@ek615/Nextchatapphomepagestyle
+- 18/Oct/2022 `TypeScript- filter, forEach, map types` https://www.notion.so/WK2-a13f24dc22e741a0b50c8db8231f2f1b
